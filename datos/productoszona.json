@@ -1,13 +1,5 @@
 [
-  {
-    "id": "1",
-    "nombre": "Ventilador Color Azul Cian Omega",
-    "precio": "31.09",
-    "disponible": "1",
-    "categoria": "Electrodomésticos",
-    "imagen": "_x3lu8upIx.jpg",
-    "descripcion": null
-  },
+  
   {
     "id": "2",
     "nombre": "Ventilador Recargable de 16\" V916RS Universal Royal",
