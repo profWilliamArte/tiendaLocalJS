@@ -1,0 +1,21 @@
+.bg-menu{
+    background-color: #2c3e50;
+}
+.bg-principal{
+    background-color: #516070;
+}
+.icono{
+    font-size: 45px;
+    color: white;
+}
+.iconoNum{
+    font-size: 20px !important;
+    color: white;
+}
+.nav-item{
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn{
+    box-shadow: 2px 2px 4px #000;
+}
